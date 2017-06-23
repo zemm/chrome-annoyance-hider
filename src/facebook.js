@@ -7,7 +7,5 @@
 	}
 
 	// facebook
-	hideById('pagelet_growth_expanding_cta');
+	hideById('headerArea');
 })();
-
-
